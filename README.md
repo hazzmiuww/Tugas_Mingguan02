@@ -4,10 +4,11 @@
 
 ## Anggota Kelompok
 
-| Nama | NRP |
-| M. Haziq Ridwan Parsa | 5025251053 |
+| Nama                    | NRP        |
+| ----------------------- | ---------- |
+| M. Haziq Ridwan Parsa   | 5025251053 |
 | Earlang Rangga Purwanto | 5025251054 |
-| Bayu Setyo Nugroho | 5025251061 |
+| Bayu Setyo Nugroho      | 5025251061 |
 
 ---
 
